@@ -74,3 +74,5 @@ $ git remote add upstream https://github.com/AlexKwonPro/kakao_clone.git
 8. 원본 원격 저장소(upstream)의 master에 브랜치가 병합되면 복제 원격 저장소(origin)의 브랜치는 삭제한다. 그리고 사용자는 로컬에서 master 브랜치로 이동한다.
 9. 병합으로 인해 변경된 원본 원격 저장소(upstream)의 master 내용을 로컬에 받아온다. 
 그리고 기존 로컬 브랜치는 삭제한다. (한 사이클 종료)
+
+## TIL_3 끝!
